@@ -1,0 +1,56 @@
+[
+  {
+    "date": "2025-09-28T00:00:00",
+    "canticles": "Service in B minor",
+    "composer": "Noble",
+    "type": "Matins"
+  },
+  {
+    "date": "2025-09-28T00:00:02",
+    "canticles": "Service in E",
+    "composer": "Wesley",
+    "type": "Evensong"
+  },
+  {
+    "date": "2025-09-29T00:00:02",
+    "canticles": "Service in E flat No 1",
+    "composer": "Wood",
+    "type": "Evensong"
+  },
+  {
+    "date": "2025-09-30T00:00:02",
+    "canticles": "Service in E",
+    "composer": "Watson",
+    "type": "Evensong"
+  },
+  {
+    "date": "2025-10-01T00:00:02",
+    "canticles": "Service in G",
+    "composer": "Wood",
+    "type": "Evensong"
+  },
+  {
+    "date": "2025-10-02T00:00:02",
+    "canticles": "Service in fauxbourdon",
+    "composer": "Holmes",
+    "type": "Evensong"
+  },
+  {
+    "date": "2025-10-03T00:00:02",
+    "canticles": "Second Service",
+    "composer": "Gibbons",
+    "type": "Evensong"
+  },
+  {
+    "date": "2025-10-04T00:00:00",
+    "canticles": "Service in B flat",
+    "composer": "Stanford",
+    "type": "Matins"
+  },
+  {
+    "date": "2025-10-04T00:00:02",
+    "canticles": "Service in D",
+    "composer": "Dyson",
+    "type": "Evensong"
+  }
+]
