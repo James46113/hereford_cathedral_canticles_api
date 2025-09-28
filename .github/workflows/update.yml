@@ -1,0 +1,35 @@
+name: Update file with Python
+
+on:
+  schedule:
+    - cron: "0 6 * * *"  # runs at 06:00 UTC every day
+  workflow_dispatch:       # still lets you trigger manually
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 pymupdf
+
+      - name: Run Python script
+        run: python canticles.py
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add canticles.json
+          git commit -m "Update file via script" || echo "No changes to commit"
+          git push
