@@ -1,17 +1,5 @@
 [
   {
-    "date": "2025-09-28T00:00:00",
-    "canticles": "Service in B minor",
-    "composer": "Noble",
-    "type": "Matins"
-  },
-  {
-    "date": "2025-09-28T00:00:02",
-    "canticles": "Service in E",
-    "composer": "Wesley",
-    "type": "Evensong"
-  },
-  {
     "date": "2025-09-29T00:00:02",
     "canticles": "Service in E flat No 1",
     "composer": "Wood",
