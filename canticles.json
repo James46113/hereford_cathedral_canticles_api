@@ -7,8 +7,44 @@
   },
   {
     "date": "2025-10-26T00:00:02",
+    "canticles": "Second service",
+    "composer": "Byrd",
+    "type": "Evensong"
+  },
+  {
+    "date": "2025-10-26T00:00:02",
     "canticles": "Second Service",
     "composer": "Byrd",
+    "type": "Evensong"
+  },
+  {
+    "date": "2025-10-27T00:00:02",
+    "canticles": "Service in E",
+    "composer": "Murrill",
+    "type": "Evensong"
+  },
+  {
+    "date": "2025-10-31T00:00:02",
+    "canticles": "Service in D",
+    "composer": "Dyson",
+    "type": "Evensong"
+  },
+  {
+    "date": "2025-11-01T00:00:02",
+    "canticles": "Gloucester Service",
+    "composer": "Howells",
+    "type": "Evensong"
+  },
+  {
+    "date": "2025-11-02T00:00:00",
+    "canticles": "Te Deum in G",
+    "composer": "Vaughan Williams",
+    "type": "Matins"
+  },
+  {
+    "date": "2025-11-02T00:00:02",
+    "canticles": "Service in D minor",
+    "composer": "Walmisley",
     "type": "Evensong"
   }
 ]
