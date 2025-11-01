@@ -1,15 +1,15 @@
 [
   {
-    "date": "2025-10-31T00:00:02",
-    "canticles": "Service in D",
-    "composer": "Dyson",
-    "type": "Evensong"
-  },
-  {
     "date": "2025-11-01T00:00:02",
     "canticles": "Gloucester Service",
     "composer": "Howells",
     "type": "Evensong"
+  },
+  {
+    "date": "2025-11-02T00:00:00",
+    "canticles": "Service in D minor",
+    "composer": "Walmisley",
+    "type": "Matins"
   },
   {
     "date": "2025-11-02T00:00:00",
@@ -21,6 +21,54 @@
     "date": "2025-11-02T00:00:02",
     "canticles": "Service in D minor",
     "composer": "Walmisley",
+    "type": "Evensong"
+  },
+  {
+    "date": "2025-11-03T00:00:02",
+    "canticles": "Service in E flat",
+    "composer": "Brewer",
+    "type": "Evensong"
+  },
+  {
+    "date": "2025-11-04T00:00:02",
+    "canticles": "Service in D minor",
+    "composer": "Walmisley",
+    "type": "Evensong"
+  },
+  {
+    "date": "2025-11-05T00:00:02",
+    "canticles": "Magnificat Septimi Toni",
+    "composer": "D Lobo",
+    "type": "Evensong"
+  },
+  {
+    "date": "2025-11-05T00:00:03",
+    "canticles": "Nunc Dimittis",
+    "composer": "Tone VIII",
+    "type": "Evensong"
+  },
+  {
+    "date": "2025-11-06T00:00:02",
+    "canticles": "Service in fauxbourdon",
+    "composer": "Tallis",
+    "type": "Evensong"
+  },
+  {
+    "date": "2025-11-07T00:00:02",
+    "canticles": "Service in E minor",
+    "composer": "Humfrey",
+    "type": "Evensong"
+  },
+  {
+    "date": "2025-11-08T00:00:00",
+    "canticles": "Service in B flat",
+    "composer": "Stanford",
+    "type": "Matins"
+  },
+  {
+    "date": "2025-11-08T00:00:02",
+    "canticles": "Service in A flat",
+    "composer": "Harwood",
     "type": "Evensong"
   }
 ]
