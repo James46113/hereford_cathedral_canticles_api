@@ -1,23 +1,5 @@
 [
   {
-    "date": "2025-11-02T00:00:00",
-    "canticles": "Service in D minor",
-    "composer": "Walmisley",
-    "type": "Matins"
-  },
-  {
-    "date": "2025-11-02T00:00:00",
-    "canticles": "Te Deum in G",
-    "composer": "Vaughan Williams",
-    "type": "Matins"
-  },
-  {
-    "date": "2025-11-02T00:00:02",
-    "canticles": "Service in D minor",
-    "composer": "Walmisley",
-    "type": "Evensong"
-  },
-  {
     "date": "2025-11-03T00:00:02",
     "canticles": "Service in E flat",
     "composer": "Brewer",
