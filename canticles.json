@@ -1,17 +1,5 @@
 [
   {
-    "date": "2025-11-05T00:00:02",
-    "canticles": "Magnificat Septimi Toni",
-    "composer": "D Lobo",
-    "type": "Evensong"
-  },
-  {
-    "date": "2025-11-05T00:00:03",
-    "canticles": "Nunc Dimittis",
-    "composer": "Tone VIII",
-    "type": "Evensong"
-  },
-  {
     "date": "2025-11-06T00:00:02",
     "canticles": "Service in fauxbourdon",
     "composer": "Tallis",
