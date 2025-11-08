@@ -1,11 +1,5 @@
 [
   {
-    "date": "2025-11-07T00:00:02",
-    "canticles": "Service in E minor",
-    "composer": "Humfrey",
-    "type": "Evensong"
-  },
-  {
     "date": "2025-11-08T00:00:00",
     "canticles": "Service in B flat",
     "composer": "Stanford",
@@ -15,6 +9,54 @@
     "date": "2025-11-08T00:00:02",
     "canticles": "Service in A flat",
     "composer": "Harwood",
+    "type": "Evensong"
+  },
+  {
+    "date": "2025-11-09T00:00:00",
+    "canticles": "Service in B flat",
+    "composer": "Stanford",
+    "type": "Matins"
+  },
+  {
+    "date": "2025-11-09T00:00:02",
+    "canticles": "Service in A flat",
+    "composer": "Harwood",
+    "type": "Evensong"
+  },
+  {
+    "date": "2025-11-10T00:00:02",
+    "canticles": "Service in A minor",
+    "composer": "Noble",
+    "type": "Evensong"
+  },
+  {
+    "date": "2025-11-11T00:00:02",
+    "canticles": "Short Service",
+    "composer": "Ayleward",
+    "type": "Evensong"
+  },
+  {
+    "date": "2025-11-13T00:00:02",
+    "canticles": "Service in C",
+    "composer": "Stanford",
+    "type": "Evensong"
+  },
+  {
+    "date": "2025-11-14T00:00:02",
+    "canticles": "Service in fauxbourdon",
+    "composer": "Tomkins",
+    "type": "Evensong"
+  },
+  {
+    "date": "2025-11-16T00:00:00",
+    "canticles": "Te Deum and Jubilate in C",
+    "composer": "Stanford",
+    "type": "Matins"
+  },
+  {
+    "date": "2025-11-16T00:00:02",
+    "canticles": "Service in G",
+    "composer": "Jackson",
     "type": "Evensong"
   }
 ]
