@@ -1,11 +1,5 @@
 [
   {
-    "date": "2025-11-14T00:00:02",
-    "canticles": "Service in fauxbourdon",
-    "composer": "Tomkins",
-    "type": "Evensong"
-  },
-  {
     "date": "2025-11-16T00:00:00",
     "canticles": "Te Deum and Jubilate in C",
     "composer": "Stanford",
@@ -15,6 +9,48 @@
     "date": "2025-11-16T00:00:02",
     "canticles": "Service in G",
     "composer": "Jackson",
+    "type": "Evensong"
+  },
+  {
+    "date": "2025-11-17T00:00:02",
+    "canticles": "Service in F",
+    "composer": "Ireland",
+    "type": "Evensong"
+  },
+  {
+    "date": "2025-11-18T00:00:02",
+    "canticles": "Second Service",
+    "composer": "Tomkins",
+    "type": "Evensong"
+  },
+  {
+    "date": "2025-11-20T00:00:02",
+    "canticles": "Service in G minor",
+    "composer": "Purcell",
+    "type": "Evensong"
+  },
+  {
+    "date": "2025-11-21T00:00:02",
+    "canticles": "Service in fauxbourdon",
+    "composer": "Whitlock",
+    "type": "Evensong"
+  },
+  {
+    "date": "2025-11-22T00:00:02",
+    "canticles": "Service in A",
+    "composer": "Stanford",
+    "type": "Evensong"
+  },
+  {
+    "date": "2025-11-23T00:00:00",
+    "canticles": "Service in B minor",
+    "composer": "Noble",
+    "type": "Matins"
+  },
+  {
+    "date": "2025-11-23T00:00:02",
+    "canticles": "Three Choirs Service",
+    "composer": "Chilcott",
     "type": "Evensong"
   }
 ]
