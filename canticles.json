@@ -1,11 +1,5 @@
 [
   {
-    "date": "2025-11-21T00:00:02",
-    "canticles": "Service in fauxbourdon",
-    "composer": "Whitlock",
-    "type": "Evensong"
-  },
-  {
     "date": "2025-11-22T00:00:02",
     "canticles": "Service in A",
     "composer": "Stanford",
@@ -21,6 +15,42 @@
     "date": "2025-11-23T00:00:02",
     "canticles": "Three Choirs Service",
     "composer": "Chilcott",
+    "type": "Evensong"
+  },
+  {
+    "date": "2025-11-24T00:00:02",
+    "canticles": "Service in A",
+    "composer": "Sumsion",
+    "type": "Evensong"
+  },
+  {
+    "date": "2025-11-25T00:00:02",
+    "canticles": "Short Service",
+    "composer": "Hooper",
+    "type": "Evensong"
+  },
+  {
+    "date": "2025-11-27T00:00:02",
+    "canticles": "Magnificat Quinti Toni",
+    "composer": "Vivanco",
+    "type": "Evensong"
+  },
+  {
+    "date": "2025-11-27T00:00:03",
+    "canticles": "Nunc dimittis",
+    "composer": "Tone IV",
+    "type": "Evensong"
+  },
+  {
+    "date": "2025-11-28T00:00:02",
+    "canticles": "Service in fauxbourdon",
+    "composer": "Byrd",
+    "type": "Evensong"
+  },
+  {
+    "date": "2025-11-29T00:00:02",
+    "canticles": "Service in B flat",
+    "composer": "Day",
     "type": "Evensong"
   }
 ]
