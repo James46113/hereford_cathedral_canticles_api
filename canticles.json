@@ -1,17 +1,5 @@
 [
   {
-    "date": "2025-11-27T00:00:02",
-    "canticles": "Magnificat Quinti Toni",
-    "composer": "Vivanco",
-    "type": "Evensong"
-  },
-  {
-    "date": "2025-11-27T00:00:03",
-    "canticles": "Nunc dimittis",
-    "composer": "Tone IV",
-    "type": "Evensong"
-  },
-  {
     "date": "2025-11-28T00:00:02",
     "canticles": "Service in fauxbourdon",
     "composer": "Byrd",
